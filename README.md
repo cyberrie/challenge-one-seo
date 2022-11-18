@@ -4,19 +4,34 @@
 
 #### Background:
 
-- By completing this project I will be more prepared for a scenario that I will likely encounter as a web developer
-- This project is "on-the-job ticket", meaning I was provided a starter code which I need to modify
+This challenge was completed as a preparation exercise for a scenario that I will likely encounter as a web developer. I was provided with a starter code which I needed to modify in line with the user story and acceptance criteria.
 
 #### Problem:
 
-- Accessiblity.
-- Accessiblity is an important consideration for businesses when it comes to web development. It ensures that people with disabilities can access a website using assistive technologies, i.e. video captions, screen readers, braille keyboards
-- The project was completed according to a User Story and Acceptance criteria
+Marketing agency hired me to make their web application optimised for search engines.
 
 #### Key learnings:
 
-- Code refactoring (improved it without changing what it does) to meet a certain standards or implement a new technology, and to make it more accessible
-- Essentially made page more accessible to both users and developers
+Refactoring a codebase to follow accessiblity standards.
+
+## Getting started
+
+#### How do I download the files?
+
+- If you're new to GitHub and just want to download the entire code, hit the green button saying "Code", and then choose the "Download ZIP" option.
+
+#### Integrate with your tools
+
+- On GitHub.com, navigate to the main page of the repository.
+- Above the list of files, click Code.
+- Copy SSH or HTTPS key
+- On your Terminal (Mac) / Git bash (Microsoft) make sure you are in the directiory you want to clone this in - Use below command followed by a SSH/HTTPS code and hit enter
+
+git clone
+
+- You are good to go!
+
+P.S. If you are using <a src="https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/adding-and-cloning-repositories/cloning-a-repository-from-github-to-github-desktop">GitHub Desktop</a>, when you hit green Code button, just select 'Open with GitHub Desktop' and follow their instruction.
 
 ## Table of Contents (Optional)
 
@@ -26,8 +41,6 @@ If your README is long, add a table of contents to make it easy for users to fin
 - [Usage](#usage)
 - [Credits](#credits)
 - [License](#license)
-
-## Usage
 
 Provide instructions and examples for use. Include screenshots as needed.
 
