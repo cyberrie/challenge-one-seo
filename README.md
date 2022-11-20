@@ -33,15 +33,21 @@ git clone
 
 - You are good to go! 🔥
 
-P.S. If you are using GitHub Desktop, when you hit green Code button, just select 'Open with GitHub Desktop' and follow their instruction.
+P.S. If you are using GitHub Desktop, when you hit the green "Code" button, just select "Open with GitHub Desktop" and follow their instructions.
 
-## Credits
+## Online Resources
 
-List your collaborators, if any, with links to their GitHub profiles.
+- Professional README Guide
 
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
+https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
 
-If you followed tutorials, include links to those here as well.
+- HTML Semantic Elements
+
+  https://www.w3schools.com/html/html5_semantic_elements.asp
+
+- HTML <img> alt Attribute
+
+  https://www.w3schools.com/tags/att_img_alt.asp
 
 ## License
 
