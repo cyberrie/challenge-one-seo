@@ -15,7 +15,7 @@ I was provided with a starter code which I needed to modify - Marketing agency h
 - Refactoring a codebase to follow accessiblity standards
 - Generating a Lighthouse report using Dev Tools on Live Server
 
-## Getting started 🚨
+## 🚨 Getting started 🚨
 
 #### How do I download the files?
 
@@ -47,7 +47,7 @@ P.S. If you are using GitHub Desktop, when you hit the green "Code" button, just
 
   https://www.w3schools.com/tags/att_img_alt.asp
 
-  - Professional README Guide
+- Professional README Guide
 
   https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
 
