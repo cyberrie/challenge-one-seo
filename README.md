@@ -1,4 +1,4 @@
-# HTML CSS Git Challenge: Code Refactor
+# HTML CSS Git Challenge: Code Refactoring
 
 ## Description
 
@@ -15,7 +15,7 @@ I was provided with a starter code which I needed to modify - Marketing agency h
 - Refactoring a codebase to follow accessiblity standards
 - Generating a Lighthouse report using Dev Tools on Live Server
 
-## 🚨 Getting started 🚨
+## Getting started 🚨
 
 #### How do I download the files?
 
@@ -35,11 +35,9 @@ git clone
 
 P.S. If you are using GitHub Desktop, when you hit the green "Code" button, just select "Open with GitHub Desktop" and follow their instructions.
 
-## Online Resources
+## Online Resources 📖
 
-- Professional README Guide
-
-https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
+- Below are some of the resources that have assisted in completing this challenge:
 
 - HTML Semantic Elements
 
@@ -48,6 +46,10 @@ https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
 - HTML <img> alt Attribute
 
   https://www.w3schools.com/tags/att_img_alt.asp
+
+  - Professional README Guide
+
+  https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
 
 ## License
 
